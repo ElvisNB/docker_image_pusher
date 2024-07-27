@@ -1,1 +1,1 @@
-grafana/grafana-enterprise:11.1.0-ubuntu
+nagios/nagios-core:latest
