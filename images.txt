@@ -1,1 +1,1 @@
-grafana/grafana
+grafana/grafana:10.4.5-ubuntu
