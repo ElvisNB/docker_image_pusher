@@ -1,1 +1,1 @@
-nagios/nagios-core:latest
+ grafana/grafana-enterprise
