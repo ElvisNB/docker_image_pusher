@@ -1,1 +1,1 @@
-grafana/grafana:10.4.5-ubuntu
+mikesplain/openvas:9
