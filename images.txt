@@ -4,3 +4,5 @@ anchore/anchore-engine:v1.0.0
 postgres:9
 redis:7
 postgres:15
+docker.io/library/python:3.10-slim-bookworm
+docker.io/library/node:18-bullseye-slim
