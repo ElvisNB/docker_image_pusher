@@ -1,1 +1,1 @@
-jetbrains/teamcity-agent:2021.1.1-linux-sudo
+gittools/gitversion:6.0.2-fedora.37-6.0
